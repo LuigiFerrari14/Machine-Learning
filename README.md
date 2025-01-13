@@ -2,17 +2,28 @@ Machine Learning dos principais modelos de Classificação, Clusterização e Re
 
 
 Projeto do Aluno:
+O objetivo desse projeto será realizar ensaios com algoritmos de Classificação, Regressão e Clusterização, para estudar a mudança do comportamento da performance, à medida que os valores dos principais parâmetros de controle de overfitting e underfitting mudam.
+
 
 Passo a Passo:
-Divida os dados em três conjuntos: treino, validação e teste.
-Treine os algoritmos utilizando os dados de treino com os parâmetros padrão (default).
-Avalie a performance dos algoritmos treinados com parâmetros padrão no conjunto de treino.
-Avalie a performance dos algoritmos treinados com parâmetros padrão no conjunto de validação.
-Ajuste os principais parâmetros para controlar o overfitting, buscando o conjunto que apresente a melhor performance no conjunto de validação.
-Una os dados de treino e validação.
-Reentreine os algoritmos com os dados combinados de treino e validação, utilizando os melhores valores para os parâmetros ajustados.
-Avalie a performance dos algoritmos reentreinados no conjunto de teste.
-Analise os resultados e destaque os três principais insights obtidos.
+ - Divida os dados em três conjuntos: treino, validação e teste.
+
+ - Treine os algoritmos utilizando os dados de treino com os parâmetros padrão (default).
+
+ - Avalie a performance dos algoritmos treinados com parâmetros padrão no conjunto de treino.
+
+ - Avalie a performance dos algoritmos treinados com parâmetros padrão no conjunto de validação.
+
+ - Ajuste os principais parâmetros para controlar o overfitting, buscando o conjunto que apresente a melhor performance no conjunto de validação.
+   
+ - Una os dados de treino e validação.
+   
+ - Reentreine os algoritmos com os dados combinados de treino e validação, utilizando os melhores valores para os parâmetros ajustados.
+   
+ - Avalie a performance dos algoritmos reentreinados no conjunto de teste.
+   
+ - Analise os resultados e destaque os três principais insights obtidos.
+
 
 
 Melhor Performance dos Modelos Baseados em Árvores:
